@@ -1,1 +1,2 @@
 # Streamlit-python-project
+My Streamlit web application, developed in Python, offers intuitive visualization and analysis tools for a department survey dataset. This dataset encompasses key insights into various departments, including information on age distribution and ranking. Through interactive features, users can explore and interpret the data effectively, gaining valuable insights into departmental dynamics and trends.
